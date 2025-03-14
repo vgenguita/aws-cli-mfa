@@ -1,2 +1,2 @@
 #!/bin/bash
-cp aws-* $PWD/.local/bin/
+cp aws-* $HOME/.local/bin/
